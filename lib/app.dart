@@ -71,7 +71,7 @@ ThemeData _buildShrineTheme() {
       border: CutCornersBorder(),
       focusedBorder: CutCornersBorder(
         borderSide: BorderSide(
-          width: 2.0,
+          width: 2.0, 
           color: colors.kShrinePurple,
         ),
       ),
